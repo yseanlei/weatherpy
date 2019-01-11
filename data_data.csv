@@ -1,0 +1,1174 @@
+Number of employees,Is your employer a tech company?,Does your medical coverage include treatment of mental health?,Do you currently have a mental health disorder?,Do you know the options for mental health care available under your employer-provided health coverage?,Have you ever been diagnosed with a mental health disorder?,Have you had a mental health disorder in the past?,Do you have a family history of mental illness?,What is your age?,What is your gender?,What country do you work in?,What is your race?,Is your primary role within your company related to tech/IT?,Do you believe your productivity is ever affected by a mental health issue?,How well do you think the tech industry supports employees with mental health issues?,"Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)","Psychotic Disorder (Schizophrenia, Schizoaffective, etc)","Eating Disorder (Anorexia, Bulimia, etc)",Attention Deficit Hyperactivity Disorder,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)",Obsessive-Compulsive Disorder,Post traumatic Stress Disorder,Stress Response Syndromes,Dissociative Disorder,Substance Use Disorder,Addictive Disorder,Other
+More than 1000,Yes,No,Possibly,Yes,No,Yes,Yes,57.0,Female,Canada,No Answer,No,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+6-25,No,No,No,Yes,No,No,Yes,46.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,34.0,Male,Norway,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Don't Know,No,55.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Don't Know,No,29.0,Other,Finland,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,35.0,Male,Poland,No Answer,Yes,No,4.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Yes,Yes,33.0,Male,Russia,No Answer,Yes,No,1.0,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No
+More than 1000,No,No,Don't Know,No,No,Don't Know,No,37.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,45.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,Yes,I don't know,31.0,Male,Germany,No Answer,Yes,No,2.0,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,38.0,Female,Canada,No Answer,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Possibly,Yes,26.0,Male,Germany,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Yes,No,27.0,Female,Serbia,No Answer,Yes,No,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,No,Yes,Yes,Yes,35.0,Male,Canada,No Answer,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,47.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,37.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Don't Know,No,No,No,Yes,32.0,Male,Colombia,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,46.0,Male,United Kingdom,No Answer,No,Yes,3.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,Yes,29.0,Male,Poland,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,I don't know,45.0,Male,United States of America,I prefer not to answer,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,No,No,No,No,No,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Yes,I don't know,46.0,Male,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,29.0,Male,India,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,I don't know,26.0,Male,Ukraine,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,26.0,Male,United States of America,White,No,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes
+6-25,Yes,No,Yes,No,Yes,Possibly,Yes,44.0,Male,Canada,No Answer,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,I don't know,32.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,No,34.0,Male,Poland,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,No,No,Don't Know,I don't know,19.0,Male,Australia,No Answer,Yes,No,2.0,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,38.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,No,61.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,I don't know,44.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,32.0,Female,United States of America,White,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,No,No,No,No,31.0,Male,Ireland,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,No,30.0,Female,United States of America,White,No,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,No,52.0,Male,Italy,No Answer,No,Yes,1.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,44.0,Male,United States of America,More than one of the above,Yes,No,1.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No
+No Answer,No,No,Don't Know,No,No,No,Yes,36.0,Male,Spain,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Don't Know,I don't know,30.0,Other,Netherlands,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Don't Know,No,No,Don't Know,I don't know,39.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,33.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,I don't know,37.0,Male,United States of America,No Answer,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Possibly,No,No,No,No,34.0,Male,Estonia,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,No,28.0,Male,India,No Answer,Yes,No,4.0,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,No,43.0,Female,Italy,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,Yes,42.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,No,Yes,35.0,Male,United States of America,More than one of the above,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,Yes,28.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,35.0,Female,United States of America,No Answer,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,31.0,Male,United States of America,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Don't Know,I don't know,24.0,Male,United States of America,No Answer,No,Unsure,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,No,No,No,No,27.0,Female,United States of America,Asian,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Possibly,Yes,36.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Yes,No,33.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,26.0,Male,United States of America,More than one of the above,No,Yes,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,No,26.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,No,24.0,Male,United States of America,Asian,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Possibly,I don't know,25.0,Male,United States of America,No Answer,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,19.0,Female,United States of America,Asian,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,28.0,Male,United States of America,Asian,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,26.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Yes,No,Yes,No,Yes,32.0,Male,South Africa,No Answer,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,Yes,I don't know,23.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,Yes,46.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,No,No,28.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,38.0,Male,Norway,No Answer,No,Yes,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,I don't know,30.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No
+6-25,Yes,No,No,No,No,No,No,26.0,Male,Brazil,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,No,37.0,Female,Mauritius,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,35.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,26.0,Female,United States of America,More than one of the above,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,29.0,Female,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,57.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,No,38.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,No,20.0,Female,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,Don't Know,Yes,41.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Possibly,No,No,Possibly,Yes,43.0,Male,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,35.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,Yes,40.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,No,No,Don't Know,No,No,Possibly,No,28.0,Male,Brazil,No Answer,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,42.0,Male,United States of America,White,Yes,No,4.0,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No
+More than 1000,No,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,28.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,22.0,Male,India,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,29.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,No,No,45.0,Male,United States of America,White,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,Yes,27.0,Female,Saudi Arabia,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,Possibly,No,32.0,Female,Germany,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,I don't know,28.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No
+No Answer,No,No,Yes,No,Yes,Possibly,No,28.0,Male,United States of America,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No
+More than 1000,No,No,No,No,No,No,No,24.0,Female,Nigeria,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,Yes,No,Don't Know,Yes,27.0,Female,United States of America,Black or African American,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,No,36.0,Female,Ireland,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,27.0,Female,Kenya,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Possibly,Yes,53.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,32.0,Male,France,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Yes,No,Yes,Possibly,Yes,25.0,Female,United States of America,I prefer not to answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,29.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,I don't know,47.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,36.0,Male,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,No,No,Possibly,Yes,61.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,No,28.0,Male,United States of America,White,Yes,No,4.0,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes
+500-1000,No,No,Possibly,Yes,No,Possibly,Yes,31.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,I don't know,35.0,Male,Uruguay,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Don't Know,Yes,40.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,32.0,Male,United States of America,White,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,No,41.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,No,34.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,No,I don't know,35.0,Female,United States of America,Black or African American,Yes,No,4.0,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes
+500-1000,Yes,No,Possibly,Yes,No,Possibly,Yes,27.0,Female,United States of America,Black or African American,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,Yes,42.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,No,67.0,Female,United States of America,White,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,56.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,27.0,Female,United States of America,Black or African American,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Yes,Yes,37.0,Female,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,I don't know,40.0,Male,Serbia,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Possibly,I don't know,30.0,Female,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,No,Yes,39.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,31.0,Male,Netherlands,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,No,Yes,36.0,Male,Italy,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,Yes,Yes,46.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,45.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Possibly,No,No,No,I don't know,25.0,Male,Bangladesh,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,38.0,Female,United States of America,More than one of the above,Yes,No,1.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes
+26-100,Yes,No,No,Yes,No,No,No,41.0,Male,United States of America,White,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+26-100,Yes,No,No,No,No,No,No,33.0,Female,United States of America,I prefer not to answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,28.0,Other,United States of America,White,Yes,No,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,34.0,Female,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Female,Canada,No Answer,No,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,28.0,Female,United States of America,White,Yes,No,3.0,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,41.0,Male,Australia,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Possibly,Yes,38.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,Yes,37.0,Male,Netherlands,No Answer,No,Yes,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,Possibly,No,42.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,28.0,Female,United States of America,White,No,No,3.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,No,25.0,Female,United Kingdom,No Answer,Yes,No,4.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,No,Possibly,No,No,Yes,I don't know,54.0,Male,United Kingdom,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,24.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Yes,I don't know,32.0,Male,United Kingdom,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Yes,Yes,44.0,Male,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,Yes,Yes,28.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Yes,Yes,41.0,Female,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No
+26-100,No,No,No,No,No,No,No,38.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Don't Know,No,No,No,Yes,36.0,Male,Japan,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,33.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,35.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,31.0,Male,Colombia,No Answer,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,No,43.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,Yes,34.0,Male,United States of America,White,Yes,No,4.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Yes,Yes,44.0,Female,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes
+1-5,Yes,No,No,No,No,No,No,55.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,I don't know,25.0,Male,India,No Answer,Yes,No,1.0,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,No,Yes,37.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Yes,I don't know,23.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Don't Know,I don't know,34.0,Female,United States of America,White,No,Not applicable to me,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,43.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,No,Yes,Yes,Yes,29.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,25.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+6-25,Yes,No,Don't Know,Yes,No,Don't Know,I don't know,36.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,Yes,No,Possibly,No,33.0,Male,United States of America,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,Yes,34.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,Yes,No,Don't Know,No,28.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,Yes,No,Possibly,Yes,54.0,Other,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,Yes,29.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,Yes,31.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,No,49.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+100-500,Yes,No,No,No,No,No,Yes,43.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,38.0,Other,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+100-500,Yes,No,No,Yes,No,Yes,Yes,35.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,23.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,Yes,42.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,No,No,No,38.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Don't Know,No,41.0,Male,United Kingdom,No Answer,Yes,No,1.0,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,2.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,25.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Don't Know,Yes,33.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Possibly,Yes,35.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,I don't know,45.0,Other,United States of America,No Answer,No,Yes,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,25.0,Female,Poland,No Answer,Yes,No,3.0,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,40.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Yes,No,34.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,No,28.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,49.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,33.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,41.0,Male,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Yes,Yes,36.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,49.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,33.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,Yes,29.0,Other,United Kingdom,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Possibly,No,34.0,Male,United States of America,White,No,Unsure,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,No,29.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Yes,No,25.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,I don't know,35.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,32.0,Male,United States of America,White,No,Unsure,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,21.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,43.0,Male,United States of America,White,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,I don't know,23.0,Male,United States of America,White,Yes,No,5.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,Yes,28.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,More than one of the above,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,No,30.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,I don't know,30.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,I don't know,32.0,Female,United States of America,White,No,Yes,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,35.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,45.0,Female,United States of America,More than one of the above,No,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,Germany,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No
+100-500,Yes,No,Yes,Yes,Yes,Possibly,Yes,34.0,Female,United States of America,White,No,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,Yes,30.0,Male,United States of America,More than one of the above,Yes,No,2.0,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,33.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Possibly,Yes,32.0,Male,United States of America,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Possibly,No,No,No,I don't know,28.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,Yes,Yes,28.0,Male,United States of America,More than one of the above,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,33.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Don't Know,I don't know,28.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,Yes,No,No,No,Yes,28.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,43.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,31.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Possibly,No,No,No,No,40.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,No,I don't know,42.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,Yes,38.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,No,Yes,Yes,Yes,21.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,Yes,32.0,Female,United States of America,More than one of the above,Yes,No,4.0,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No
+6-25,Yes,No,Possibly,Yes,No,Yes,Yes,32.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Possibly,Yes,40.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,35.0,Male,United States of America,White,No,Yes,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Possibly,No,28.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,25.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Possibly,Yes,37.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,40.0,Other,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Female,United States of America,White,No,No,3.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Possibly,I don't know,47.0,Female,New Zealand,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,26.0,Other,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,No,No,Yes,Yes,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,Yes,No,46.0,Male,Norway,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,22.0,Female,United States of America,Black or African American,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,Yes,37.0,Female,Ireland,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,27.0,Male,United States of America,White,No,No,1.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Don't Know,Yes,28.0,Female,United States of America,I prefer not to answer,Yes,No,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+100-500,Yes,No,No,No,No,No,Yes,33.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,31.0,Male,United States of America,White,No,Yes,5.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,No,28.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,No,No,Don't Know,I don't know,32.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Possibly,No,No,No,No,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,No,26.0,Female,United States of America,White,No,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Possibly,Yes,41.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,No,39.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,No,I don't know,21.0,Female,United States of America,Asian,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,Yes,38.0,Male,United States of America,White,No,Yes,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,Yes,No,Don't Know,I don't know,35.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,33.0,Female,Switzerland,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,I don't know,38.0,Male,Netherlands,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,I don't know,29.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,No,I don't know,25.0,Female,United States of America,White,No,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,Yes,41.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+6-25,Yes,No,Yes,No,Yes,Possibly,Yes,29.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,45.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Don't Know,No,45.0,Other,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,No,45.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,27.0,Male,United States of America,American Indian or Alaska Native,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,No,No,No,No,No,36.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,44.0,Female,United States of America,White,No,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,35.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,42.0,Other,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,26.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,Yes,33.0,Female,United States of America,Asian,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,Yes,25.0,Other,United States of America,I prefer not to answer,Yes,No,4.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,36.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,I don't know,29.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Possibly,No,43.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,I don't know,37.0,Male,Portugal,No Answer,No,Yes,1.0,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No
+500-1000,No,No,No,No,No,No,No,26.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,46.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,35.0,Female,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Don't Know,Yes,37.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,36.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,31.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+6-25,Yes,No,Possibly,No,No,No,I don't know,42.0,Male,Switzerland,No Answer,Yes,No,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,41.0,Male,United States of America,More than one of the above,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,I don't know,33.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,I don't know,26.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+100-500,Yes,No,Possibly,No,No,Possibly,No,37.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,36.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,35.0,Male,Ethiopia,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,No,No,No,No,45.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,No,No,23.0,Male,India,No Answer,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,26.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,No,23.0,Male,Canada,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,No,No,No,No,I don't know,26.0,Male,Mexico,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,34.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,22.0,Male,Macedonia,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Possibly,No,No,Don't Know,I don't know,42.0,Female,United States of America,White,Yes,No,4.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,No,No,Yes,I don't know,40.0,Male,Mexico,No Answer,Yes,No,1.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+500-1000,No,No,Possibly,No,No,Don't Know,Yes,42.0,Male,United States of America,No Answer,Yes,No,1.0,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No
+26-100,Yes,No,Possibly,Yes,No,Yes,Yes,35.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,Possibly,No,37.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Possibly,Yes,31.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,Yes,No,Yes,Yes,27.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,No,No,No,No,No,38.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,23.0,Other,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,51.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,26.0,Female,Iceland,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,No,No,No,I don't know,19.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,44.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,42.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,I don't know,26.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Don't Know,I don't know,38.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,26.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,40.0,Male,Greece,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+100-500,Yes,No,Possibly,Yes,No,Possibly,I don't know,32.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,44.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,33.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,No,I don't know,38.0,Male,Hong Kong,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Possibly,I don't know,42.0,Male,Australia,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,57.0,Male,United States of America,White,No,Yes,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,No,No,Yes,Yes,28.0,Male,Germany,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Possibly,No,31.0,Male,France,No Answer,Yes,No,2.0,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No
+No Answer,No,No,No,No,No,No,No,34.0,Male,United States of America,White,No,Not applicable to me,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,35.0,Male,France,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,No,30.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,35.0,Male,United States of America,No Answer,No,Yes,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,40.0,Other,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,24.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,I don't know,42.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Don't Know,Yes,35.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,34.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Possibly,Yes,33.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,Possibly,No,37.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Possibly,No,No,Yes,I don't know,47.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,42.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Other,United States of America,More than one of the above,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,No,No,38.0,Female,Georgia,No Answer,No,Not applicable to me,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,I don't know,30.0,Male,Turkey,No Answer,No,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,30.0,Other,United States of America,White,No,Yes,2.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,36.0,Male,Poland,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,24.0,Female,United States of America,White,No,No,4.0,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,Yes,41.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Possibly,Yes,48.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,31.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,Yes,65.0,Male,Canada,No Answer,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Possibly,I don't know,34.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,55.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,33.0,Female,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,No,41.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,I don't know,24.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,No,No,No,Yes,27.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,Yes,No,No,No,30.0,Male,Canada,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,No,61.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,No,Yes,45.0,Male,Netherlands,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,29.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,41.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Possibly,No,39.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,Yes,46.0,Male,Italy,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,No,Yes,42.0,Male,Spain,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Female,United States of America,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Female,Australia,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,52.0,Male,Mexico,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,I don't know,36.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,34.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,I don't know,50.0,Male,Austria,No Answer,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,51.0,Male,United States of America,White,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Yes,No,35.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,24.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,37.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,24.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Yes,I don't know,46.0,Male,United States of America,White,No,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,I don't know,31.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,35.0,Male,United States of America,Asian,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,40.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,I don't know,28.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Possibly,Yes,28.0,Male,United States of America,More than one of the above,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,39.0,Male,Finland,No Answer,Yes,No,3.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Possibly,I don't know,31.0,Male,United States of America,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,Yes,No,Possibly,I don't know,27.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,35.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,No,27.0,Female,United Kingdom,No Answer,Yes,No,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,No,31.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,No,I don't know,22.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,Yes,Yes,52.0,Female,United States of America,More than one of the above,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,Yes,30.0,Male,United States of America,White,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,No,Yes,36.0,Female,United States of America,Asian,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,38.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Don't Know,No,No,No,I don't know,35.0,Male,Switzerland,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,No,No,36.0,Male,India,No Answer,No,Unsure,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Possibly,Yes,40.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,35.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No
+More than 1000,Yes,No,No,No,No,No,No,23.0,Male,Russia,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,No,No,I don't know,22.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,34.0,Female,United States of America,Black or African American,No,No,3.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,No,No,28.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,No,No,Possibly,No,No,No,No,38.0,Male,Bangladesh,No Answer,Yes,No,5.0,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,53.0,Male,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,No,21.0,Male,Germany,No Answer,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,No,No,No,Yes,35.0,Female,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,22.0,Male,United Kingdom,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,No,No,Possibly,Yes,18.0,Male,United Kingdom,No Answer,No,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+1-5,Yes,No,Yes,No,Yes,Don't Know,I don't know,25.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,I don't know,40.0,Male,Canada,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,Don't Know,Yes,33.0,Male,Israel,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,66.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,No,Yes,32.0,Male,Canada,No Answer,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,46.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,31.0,Male,United States of America,Black or African American,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,46.0,Male,Iceland,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,29.0,Other,Canada,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,28.0,Female,United States of America,More than one of the above,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,No,Yes,Possibly,I don't know,34.0,Female,Japan,No Answer,Yes,No,1.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,I don't know,25.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Possibly,I don't know,35.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+No Answer,No,No,No,No,No,No,Yes,25.0,Other,Indonesia,No Answer,No,Unsure,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,No,40.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Don't Know,I don't know,32.0,Male,United States of America,I prefer not to answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,No,No,Yes,Yes,39.0,Male,United States of America,I prefer not to answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,33.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,I don't know,40.0,Male,United States of America,Black or African American,Yes,No,4.0,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+500-1000,Yes,No,Yes,No,Yes,Yes,I don't know,42.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,27.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,43.0,Female,United Kingdom,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Possibly,No,No,Possibly,I don't know,30.0,Female,Indonesia,No Answer,Yes,No,2.0,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,42.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Other,Canada,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,38.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,No,No,47.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,No,Yes,Yes,No,64.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,28.0,Male,Canada,No Answer,No,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,I don't know,45.0,Male,United States of America,White,No,Yes,2.0,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,37.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Female,United Kingdom,No Answer,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,No,No,No,No,25.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,No,No,Yes,25.0,Female,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,54.0,Female,United States of America,White,No,Yes,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,No,I don't know,61.0,Male,United Kingdom,No Answer,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,26.0,Male,India,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,44.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Possibly,I don't know,26.0,Male,Portugal,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,26.0,Female,Portugal,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+6-25,Yes,No,No,No,No,Possibly,I don't know,35.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,45.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Possibly,I don't know,23.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,Yes,No,Don't Know,No,44.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Yes,I don't know,38.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,No,Yes,No,Yes,Yes,46.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,Yes,I don't know,27.0,Other,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,39.0,Female,United States of America,I prefer not to answer,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,Yes,33.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,38.0,Female,United States of America,No Answer,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,No,35.0,Male,United Kingdom,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Possibly,No,32.0,Male,Germany,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,26.0,Female,United States of America,Asian,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,50.0,Male,United States of America,No Answer,Yes,No,2.0,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Male,United States of America,White,Yes,No,4.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,No,Yes,46.0,Male,Romania,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,34.0,Male,Germany,No Answer,Yes,No,3.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,No,42.0,Male,United Kingdom,No Answer,No,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,24.0,Female,United States of America,White,Yes,No,3.0,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,Yes,No,Don't Know,I don't know,23.0,Male,Canada,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+26-100,Yes,No,Possibly,No,No,No,I don't know,31.0,Male,Finland,No Answer,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No
+No Answer,No,No,No,No,No,Possibly,No,26.0,Male,Pakistan,No Answer,No,Unsure,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,No,Yes,No,No,Yes,52.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,No,No,28.0,Male,Portugal,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Don't Know,I don't know,37.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+500-1000,No,No,No,No,No,Possibly,No,37.0,Male,Canada,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,57.0,Female,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,No,Yes,34.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Possibly,Yes,38.0,Female,Germany,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,No,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Don't Know,No,52.0,Male,United States of America,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No Answer,No,yes,Yes,No,Yes,Yes,No,31.0,Female,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,I don't know,29.0,Male,Germany,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,No,Yes,26.0,Female,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,I don't know,29.0,Female,United States of America,White,No,No,4.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,44.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Don't Know,I don't know,18.0,Male,Canada,No Answer,No,Unsure,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,42.0,Male,Australia,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Possibly,Yes,No,Possibly,Yes,30.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,I don't know,29.0,Male,United States of America,White,No,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,27.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,40.0,Female,United States of America,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Yes,Yes,36.0,Female,United States of America,Asian,Yes,No,4.0,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,No,No,48.0,Female,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,Yes,No,Don't Know,No,43.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,I don't know,42.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,No,Yes,Possibly,I don't know,46.0,Male,United Kingdom,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,No,No,Yes,30.0,Male,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,Yes,Yes,Yes,Yes,25.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+500-1000,Yes,No,Don't Know,Yes,No,No,Yes,28.0,Other,Canada,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,Yes,24.0,Female,Germany,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+1-5,Yes,No,No,No,No,No,Yes,26.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,43.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,25.0,Female,United States of America,I prefer not to answer,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,28.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Possibly,I don't know,27.0,Male,South Africa,No Answer,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Don't Know,No,22.0,Male,India,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,24.0,Female,Romania,No Answer,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,No,No,No,33.0,Female,Pakistan,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,No,41.0,Male,Germany,No Answer,No,No,2.0,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No
+26-100,Yes,No,Possibly,No,No,Possibly,I don't know,26.0,Female,United Kingdom,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,39.0,Male,United States of America,White,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Possibly,No,24.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,I don't know,54.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,47.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,33.0,Male,Sweden,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,No,Yes,30.0,Other,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,I don't know,48.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,Yes,35.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,I don't know,34.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,31.0,Male,Serbia,No Answer,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,Yes,No,Possibly,Yes,25.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,48.0,Male,Spain,No Answer,Yes,No,2.0,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,I don't know,34.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Yes,Yes,42.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Possibly,Yes,27.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,No,Yes,33.0,Female,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,I don't know,27.0,Female,United States of America,Black or African American,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,No,No,Possibly,I don't know,48.0,Male,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,32.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,29.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,No,No,Yes,36.0,Female,United States of America,Asian,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,29.0,Female,United Kingdom,No Answer,No,Yes,2.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,No,23.0,Female,Canada,No Answer,Yes,No,4.0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Yes,I don't know,50.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,24.0,Female,Jordan,No Answer,No,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,29.0,Female,Hungary,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,Possibly,Yes,42.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,No,35.0,Male,Australia,No Answer,No,Yes,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,I don't know,22.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,39.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,Yes,29.0,Female,Canada,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,20.0,Male,India,No Answer,No,Not applicable to me,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,No,No,Yes,No,Yes,Yes,Yes,36.0,Female,United Kingdom,No Answer,No,No,3.0,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Female,Croatia,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,I don't know,36.0,Male,United States of America,White,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Yes,Yes,31.0,Male,South Africa,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,Yes,No,Possibly,No,28.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,No,No,No,Yes,No,No,I don't know,28.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,25.0,Female,United States of America,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,I don't know,30.0,Male,Bulgaria,No Answer,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,Yes,45.0,Male,New Zealand,No Answer,No,Yes,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,31.0,Male,Italy,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,36.0,Male,Romania,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,Yes,37.0,Male,Argentina,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,37.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,No,28.0,Male,Russia,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,Possibly,No,37.0,Male,Spain,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,No,37.0,Male,Bulgaria,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,No,64.0,Male,Australia,No Answer,No,Yes,1.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,34.0,Female,Eritrea,No Answer,No,Unsure,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Possibly,No,No,Possibly,Yes,34.0,Male,Greece,No Answer,No,Yes,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,36.0,Male,Spain,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,26.0,Male,United States of America,No Answer,No,Unsure,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,No,33.0,Male,Austria,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,No,No,No,No,47.0,Female,United States of America,White,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Yes,I don't know,24.0,Female,United States of America,White,No,No,4.0,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,26.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Yes,I don't know,37.0,Male,Australia,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,29.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,33.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,44.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Yes,Yes,34.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,No,Yes,35.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,32.0,Female,United States of America,Asian,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,23.0,Other,Canada,No Answer,No,Yes,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Yes,Yes,31.0,Male,United States of America,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,42.0,Male,United Kingdom,No Answer,No,Not applicable to me,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,26.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,No,No,No,Yes,No,Possibly,Yes,29.0,Female,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,No,35.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,31.0,Male,Spain,No Answer,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Don't Know,Yes,26.0,Other,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,30.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Don't Know,Yes,No,Don't Know,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,No,29.0,Male,Spain,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,I don't know,27.0,Male,Spain,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Don't Know,No,29.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,43.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,No,No,31.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,No,27.0,Female,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,36.0,Male,Netherlands,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,Yes,No,Yes,Yes,44.0,Female,United States of America,White,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,Yes,44.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,No,27.0,Female,United States of America,More than one of the above,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,42.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,28.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,Yes,Yes,Yes,No,43.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,28.0,Female,Canada,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,49.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,I don't know,32.0,Male,France,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,I don't know,33.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,Yes,No,Possibly,Yes,45.0,Male,United States of America,I prefer not to answer,No,No,2.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,25.0,Female,United States of America,More than one of the above,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,42.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,No,Yes,25.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,No,Yes,25.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,Yes,No,Possibly,Yes,31.0,Female,United States of America,No Answer,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,Yes,No,No,I don't know,22.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,33.0,Female,United States of America,White,No,Yes,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,No,No,Yes,40.0,Male,India,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Don't Know,I don't know,28.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,I don't know,37.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,I don't know,35.0,Male,Canada,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,No,47.0,Male,United States of America,White,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+26-100,Yes,No,Possibly,No,No,Don't Know,Yes,20.0,Male,United Kingdom,No Answer,Yes,No,3.0,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Possibly,No,27.0,Female,Spain,No Answer,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,Yes,No,Possibly,No,62.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,42.0,Male,United States of America,White,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,35.0,Male,United States of America,White,No,Yes,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,I don't know,29.0,Male,Germany,No Answer,Yes,No,3.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,Yes,51.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,Possibly,Yes,60.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Possibly,I don't know,30.0,Female,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,36.0,Female,United States of America,White,No,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Possibly,I don't know,38.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Yes,No,30.0,Female,Mexico,No Answer,Yes,No,3.0,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,35.0,Male,United Kingdom,No Answer,No,No,3.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,I don't know,50.0,Female,United Kingdom,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Yes,Yes,41.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,58.0,Female,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+1-5,No,No,Yes,No,Yes,No,No,27.0,Male,United States of America,White,Yes,No,2.0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+100-500,No,No,No,No,No,Yes,No,53.0,Male,Swaziland,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Possibly,No,No,Don't Know,I don't know,42.0,Female,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,Yes,No,Possibly,Yes,33.0,Male,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,25.0,Other,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,Yes,40.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,Yes,Yes,Yes,Yes,25.0,Female,United States of America,More than one of the above,Yes,No,3.0,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,49.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,44.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,28.0,Male,United States of America,White,No,No,2.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,Yes,26.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Male,United States of America,No Answer,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,No,24.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,34.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,47.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,59.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,44.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,26.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,No,43.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,Don't Know,I don't know,39.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Don't Know,I don't know,43.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,40.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,No,I don't know,22.0,Male,Germany,No Answer,Yes,No,2.0,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,No,No,24.0,Male,Netherlands,No Answer,Yes,No,3.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,No,Yes,Yes,Yes,35.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,40.0,Male,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,Yes,26.0,Male,Canada,No Answer,No,Yes,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,23.0,Male,Brazil,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,No,No,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Don't Know,Yes,No,No,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Yes,No,Yes,Yes,No,27.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,I don't know,42.0,Male,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,No,49.0,Male,United States of America,White,No,No,4.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Possibly,I don't know,40.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,26.0,Female,United States of America,White,No,No,4.0,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Possibly,Yes,29.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,Yes,39.0,Female,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,40.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,No,23.0,Male,Ukraine,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,50.0,Male,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,No,35.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,I don't know,24.0,Male,Mexico,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,35.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Possibly,I don't know,36.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,I don't know,50.0,Female,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,47.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,30.0,Male,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Other,United States of America,White,No,No,4.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,No,26.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,45.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+500-1000,Yes,No,Possibly,Yes,No,Don't Know,No,37.0,Female,United States of America,Black or African American,Yes,No,1.0,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,24.0,Female,United States of America,White,No,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,33.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,35.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Yes,Yes,44.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,33.0,Male,United States of America,White,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,28.0,Female,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Don't Know,Yes,35.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,No,23.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Possibly,I don't know,53.0,Male,Australia,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,I don't know,32.0,Male,Netherlands,No Answer,Yes,No,2.0,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,Yes,24.0,Male,Germany,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,No,31.0,Male,Sweden,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,I don't know,33.0,Male,Ireland,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,37.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,27.0,Male,Switzerland,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,31.0,Male,Netherlands,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,No,I don't know,32.0,Male,Ukraine,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,I don't know,40.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+More than 1000,Yes,No,No,Yes,No,Yes,No,32.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,Don't Know,I don't know,31.0,Male,United States of America,No Answer,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,33.0,Male,United States of America,White,Yes,No,5.0,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+6-25,Yes,No,Possibly,No,No,Yes,I don't know,21.0,Other,United States of America,White,No,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,No,67.0,Female,United States of America,White,No,Yes,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,35.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,No,No,No,No,No,I don't know,46.0,Male,Ireland,No Answer,No,Unsure,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Possibly,I don't know,36.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,44.0,Female,Australia,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,No,No,Possibly,No,No,Don't Know,I don't know,57.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,I don't know,38.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,27.0,Female,United States of America,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,26.0,Male,Australia,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Yes,No,36.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,Possibly,Yes,30.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,No,No,Yes,35.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,No,30.0,Male,Argentina,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,Yes,32.0,Male,New Zealand,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,No,35.0,Male,France,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,Yes,No,No,No,33.0,Male,Australia,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,48.0,Male,New Zealand,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,32.0,Male,Netherlands,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,45.0,Male,United Kingdom,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,No,No,No,No,31.0,Male,Romania,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,40.0,Male,Spain,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,29.0,Male,Poland,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,26.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,I don't know,51.0,Female,United States of America,White,No,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,No,29.0,Male,Germany,No Answer,No,Yes,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,30.0,Male,United Kingdom,No Answer,No,Yes,3.0,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No
+26-100,Yes,No,No,Yes,No,Possibly,No,33.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,27.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,I don't know,42.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,47.0,Male,Australia,No Answer,No,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Possibly,I don't know,31.0,Female,Netherlands,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,32.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,60.0,Male,Netherlands,No Answer,No,Not applicable to me,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,Yes,58.0,Male,Belgium,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,38.0,Male,Belgium,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,Don't Know,I don't know,42.0,Female,Spain,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,41.0,Male,Germany,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Possibly,No,25.0,Male,India,No Answer,Yes,No,3.0,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,Yes,No,31.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Possibly,No,42.0,Male,United States of America,No Answer,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Don't Know,I don't know,42.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,No,41.0,Male,United States of America,Asian,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,35.0,Other,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,Yes,No,Yes,No,24.0,Male,Mexico,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,No,Yes,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,No,No,32.0,Male,Japan,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,No,Yes,No,No,No,34.0,Male,India,No Answer,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,Yes,No,37.0,Male,Singapore,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,No,No,38.0,Male,France,No Answer,No,Not applicable to me,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,I don't know,30.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Don't Know,I don't know,27.0,Male,France,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,41.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,I don't know,41.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,No,42.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+1-5,Yes,No,Yes,No,Yes,Yes,Yes,28.0,Female,United States of America,White,No,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes
+6-25,Yes,No,Yes,No,Yes,Yes,No,29.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,Yes,41.0,Male,Australia,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Yes,No,46.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,No,Yes,No,No,Yes,38.0,Male,Spain,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,Yes,No,No,No,34.0,Male,United States of America,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,28.0,Male,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,28.0,Female,Netherlands,No Answer,Yes,No,2.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,Possibly,No,38.0,Male,Germany,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,33.0,Male,United States of America,More than one of the above,Yes,No,4.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,Don't Know,Yes,No,Possibly,I don't know,38.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,No,48.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,No,I don't know,44.0,Female,France,No Answer,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,Yes,Yes,34.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,29.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,39.0,Male,United Kingdom,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Possibly,No,41.0,Male,Slovakia,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,Yes,33.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,I don't know,31.0,Male,Germany,No Answer,No,Not applicable to me,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Don't Know,No,44.0,Male,France,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,Yes,33.0,Female,United States of America,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,No,26.0,Other,Austria,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No
+26-100,Yes,No,No,No,No,No,No,28.0,Male,South Africa,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,Yes,No,Possibly,I don't know,32.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,No,35.0,Female,Ireland,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,Possibly,No,40.0,Male,France,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,Yes,No,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,Yes,34.0,Male,United States of America,More than one of the above,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+26-100,Yes,No,No,No,No,No,I don't know,21.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Possibly,Yes,37.0,Male,France,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,27.0,Male,United States of America,No Answer,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,37.0,Male,United States of America,White,No,Unsure,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,33.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,No,Yes,28.0,Male,United States of America,More than one of the above,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Don't Know,I don't know,41.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,34.0,Male,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,37.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,28.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+More than 1000,No,No,Possibly,No,No,Possibly,No,52.0,Male,Germany,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+100-500,Yes,No,No,No,No,No,No,39.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,I don't know,45.0,Male,United States of America,White,Yes,No,1.0,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,50.0,Male,Netherlands,No Answer,No,Unsure,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,I don't know,27.0,Male,France,No Answer,Yes,No,1.0,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,31.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,I don't know,44.0,Male,United States of America,No Answer,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,Yes,31.0,Male,France,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,Possibly,No,23.0,Male,Russia,No Answer,Yes,No,2.0,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,23.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Possibly,I don't know,38.0,Male,France,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Don't Know,Yes,37.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,33.0,Male,Luxembourg,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Possibly,I don't know,34.0,Male,United States of America,Asian,No,Unsure,1.0,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes
+More than 1000,No,No,Possibly,Yes,No,Possibly,No,47.0,Male,United States of America,White,Yes,No,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,No,Yes,29.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,38.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,Don't Know,No,29.0,Male,Canada,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Don't Know,No,39.0,Male,India,No Answer,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,57.0,Female,Canada,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,No,38.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Yes,I don't know,39.0,Male,France,No Answer,No,Unsure,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,29.0,Male,Switzerland,No Answer,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,Yes,24.0,Male,United Kingdom,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Female,United Kingdom,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,Yes,No,Don't Know,I don't know,32.0,Male,United States of America,White,Yes,No,4.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Possibly,Yes,37.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Don't Know,No,34.0,Male,New Zealand,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,52.0,Male,United States of America,White,No,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Possibly,Yes,36.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,No,52.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,49.0,Female,United States of America,Asian,No,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,41.0,Male,Australia,No Answer,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+More than 1000,No,No,Possibly,No,No,No,Yes,29.0,Male,United States of America,No Answer,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,No,No,37.0,Other,United States of America,I prefer not to answer,Yes,No,1.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Possibly,Yes,29.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,39.0,Female,United States of America,More than one of the above,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,23.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,No,I don't know,29.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,41.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,47.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,56.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,I don't know,22.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Female,United States of America,White,No,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Other,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,No,36.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+6-25,No,No,Possibly,No,No,Yes,I don't know,29.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,No,I don't know,31.0,Female,United States of America,More than one of the above,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Don't Know,No,No,No,Yes,36.0,Male,Japan,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,27.0,Other,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,38.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Don't Know,Yes,37.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,No,33.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,I don't know,38.0,Male,Turkey,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Yes,Yes,36.0,Female,United States of America,White,Yes,No,4.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,30.0,Female,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,I don't know,38.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Possibly,Yes,35.0,Female,Canada,No Answer,Yes,No,2.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,26.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,No,No,Possibly,Yes,No,No,No,25.0,Male,United Kingdom,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+100-500,Yes,No,No,Yes,No,Yes,I don't know,40.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,I don't know,31.0,Male,Canada,No Answer,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Possibly,I don't know,49.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,No,Yes,30.0,Male,Netherlands,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,No,No,Don't Know,No,No,Don't Know,No,35.0,Male,United States of America,More than one of the above,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Yes,Yes,46.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Don't Know,Yes,29.0,Female,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,Yes,Yes,Yes,Yes,22.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,50.0,Female,United States of America,White,No,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Don't Know,No,39.0,Male,United States of America,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,Yes,No,Yes,Yes,No,40.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+100-500,Yes,No,No,Yes,No,Yes,Yes,31.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,No,38.0,Male,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,45.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,Yes,No,Don't Know,No,25.0,Female,United States of America,No Answer,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,28.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Possibly,No,37.0,Male,United Kingdom,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,Possibly,No,No,No,No,54.0,Male,United States of America,I prefer not to answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,45.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,34.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,28.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,I don't know,32.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,No,No,40.0,Male,Netherlands,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,No,Yes,Yes,Yes,52.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,No,I don't know,33.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,41.0,Female,United States of America,More than one of the above,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,25.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,No,33.0,Female,Canada,No Answer,No,Yes,1.0,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,36.0,Other,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,40.0,Male,Switzerland,No Answer,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,Yes,23.0,Female,United States of America,White,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,No,37.0,Male,Canada,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,Yes,No,Possibly,I don't know,42.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+100-500,No,No,Yes,No,Yes,Yes,Yes,35.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,No,Yes,32.0,Female,United States of America,White,No,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,No,No,No,Yes,23.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,35.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,No,34.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Possibly,Yes,24.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,38.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,42.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,Yes,No,Possibly,I don't know,23.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Yes,I don't know,39.0,Other,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,Yes,No,No,I don't know,35.0,Female,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,No,29.0,Female,United States of America,White,No,No,1.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,24.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,No,No,Possibly,Yes,35.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Don't Know,I don't know,30.0,Male,United States of America,White,Yes,No,1.0,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+6-25,Yes,No,No,No,No,No,No,28.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Possibly,Yes,No,Possibly,Yes,34.0,Male,United States of America,White,Yes,No,4.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Possibly,I don't know,33.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,32.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,27.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,No,Yes,23.0,Female,United States of America,White,No,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,Yes,30.0,Male,Netherlands,No Answer,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,24.0,Male,United States of America,White,No,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Don't Know,Yes,No,Don't Know,I don't know,32.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,41.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,I don't know,37.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,I don't know,27.0,Male,Czech Republic,No Answer,No,Yes,2.0,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No
+26-100,Yes,No,No,No,No,Yes,Yes,26.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,No,I don't know,24.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+26-100,Yes,No,Yes,Yes,Yes,Possibly,No,44.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Yes,No,40.0,Male,Germany,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,42.0,Male,United States of America,White,No,Not applicable to me,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,27.0,Other,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Yes,I don't know,40.0,Male,United States of America,No Answer,Yes,No,3.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,38.0,Female,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,I don't know,27.0,Female,United States of America,White,No,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Possibly,No,No,No,No,34.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,26.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,33.0,Female,United States of America,White,No,Yes,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Possibly,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+100-500,No,No,Yes,No,No,No,Yes,33.0,Other,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,3.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,No,No,No,I don't know,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,Yes,22.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,29.0,Male,United States of America,Black or African American,No,Yes,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,51.0,Female,United States of America,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,24.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,No,Yes,Yes,I don't know,37.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+500-1000,No,No,No,Yes,No,No,No,46.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Possibly,No,No,Yes,Yes,43.0,Male,Canada,No Answer,No,Yes,1.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,50.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,27.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,No,No,31.0,Male,United Kingdom,No Answer,No,Unsure,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,32.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No Answer,No,yes,Possibly,No,No,Yes,Yes,49.0,Male,United States of America,White,No,Yes,1.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,I don't know,37.0,Male,Canada,No Answer,No,Yes,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,35.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,I don't know,33.0,Other,Switzerland,No Answer,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,32.0,Male,India,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,Yes,No,No,No,31.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,33.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Don't Know,Yes,40.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+500-1000,Yes,No,No,Yes,No,No,Yes,40.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,No,56.0,Male,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,28.0,Other,United States of America,White,Yes,No,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+1-5,No,No,No,No,No,No,I don't know,25.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,48.0,Male,United States of America,White,Yes,No,4.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,43.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,Yes,29.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,I don't know,36.0,Other,United States of America,White,Yes,No,3.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Possibly,I don't know,31.0,Female,United States of America,White,No,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,33.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,Yes,No,Yes,I don't know,49.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,No,Yes,38.0,Male,United Kingdom,No Answer,No,Yes,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+6-25,Yes,No,No,No,No,No,No,30.0,Female,Australia,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,No,No,Yes,36.0,Male,United Kingdom,No Answer,No,Yes,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,Yes,Yes,Don't Know,Yes,32.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Don't Know,No,No,Possibly,Yes,36.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,No,40.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Possibly,No,28.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,No,No,21.0,Female,India,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,46.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,20.0,Male,Germany,No Answer,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,No,44.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Possibly,I don't know,34.0,Male,United Kingdom,No Answer,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,38.0,Female,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,I don't know,35.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,Yes,45.0,Female,United States of America,White,No,Yes,3.0,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,I don't know,35.0,Male,United Kingdom,No Answer,Yes,No,4.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,30.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,Yes,Yes,22.0,Female,United States of America,Asian,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,No,Yes,33.0,Male,United States of America,White,No,Unsure,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Possibly,No,No,Possibly,I don't know,30.0,Male,India,No Answer,No,No,1.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,Yes,41.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,32.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,48.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,Yes,32.0,Male,Germany,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Possibly,No,No,Possibly,I don't know,30.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,45.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,31.0,Female,United States of America,White,No,Yes,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Don't Know,No,32.0,Other,United Kingdom,No Answer,Yes,No,2.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,Yes,No,Yes,No,I don't know,30.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Possibly,I don't know,32.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,37.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No Answer,No,No,Possibly,No,No,Possibly,Yes,30.0,Male,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,31.0,Female,Netherlands,No Answer,No,Yes,2.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,Possibly,No,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,I don't know,35.0,Female,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,I don't know,37.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Yes,Yes,26.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Possibly,Yes,50.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Possibly,I don't know,32.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,32.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,No,No,23.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,Yes,40.0,Female,United States of America,More than one of the above,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,No,No,36.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,Yes,24.0,Female,United States of America,White,No,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,No,29.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,I don't know,28.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,Possibly,No,51.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,Yes,36.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,No,40.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Yes,I don't know,39.0,Male,Canada,No Answer,Yes,No,3.0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,32.0,Female,Netherlands,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,No,No,Possibly,Yes,45.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+500-1000,Yes,No,No,No,No,No,Yes,39.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,I don't know,33.0,Male,United States of America,White,No,Yes,3.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Possibly,I don't know,46.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+26-100,Yes,No,Don't Know,No,No,Possibly,I don't know,34.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,No,No,No,Yes,30.0,Male,France,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,Yes,31.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Possibly,Yes,28.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Yes,No,31.0,Male,United Kingdom,No Answer,No,Yes,4.0,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No
+100-500,No,No,Possibly,Yes,No,No,No,32.0,Male,United Kingdom,No Answer,Yes,No,2.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Possibly,I don't know,39.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,Yes,45.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Don't Know,No,No,Don't Know,No,26.0,Male,United States of America,White,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,Yes,No,No,I don't know,36.0,Female,United States of America,White,Yes,No,2.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,No,Yes,Yes,I don't know,26.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Don't Know,No,No,Don't Know,I don't know,55.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,32.0,Female,Canada,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Possibly,No,No,Yes,Yes,40.0,Female,United States of America,White,Yes,No,1.0,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No
+More than 1000,No,No,Yes,No,Yes,Yes,Yes,27.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,45.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,No,34.0,Female,United States of America,White,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,No,No,No,No,Yes,31.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,Yes,No,Yes,Yes,Yes,29.0,Female,Canada,No Answer,No,Yes,1.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Possibly,No,31.0,Male,Sweden,No Answer,No,Yes,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,Yes,No,Yes,No,40.0,Male,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,No,Yes,No,No,Yes,41.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,No,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,No,Yes,No,No,No,39.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,35.0,Female,United States of America,White,No,Yes,2.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,I don't know,37.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,No,No,No,No,No,No,No,32.0,Male,France,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,Yes,24.0,Male,France,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,Yes,No,40.0,Female,France,No Answer,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,No,No,Yes,No,Yes,Yes,Yes,25.0,Male,United States of America,White,No,No,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,49.0,Male,United Kingdom,No Answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Yes,No,Yes,Yes,Yes,28.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,No,Yes,22.0,Male,United States of America,White,Yes,No,4.0,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,41.0,Male,United States of America,I prefer not to answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,No,No,36.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,Possibly,No,32.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Yes,No,No,No,Yes,23.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,53.0,Male,United States of America,White,Yes,No,4.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,34.0,Male,United States of America,White,Yes,No,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No
+More than 1000,No,No,Possibly,Yes,No,Possibly,Yes,30.0,Male,United States of America,White,Yes,No,2.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,I don't know,23.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,No,Yes,Yes,Yes,30.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,22.0,Female,United States of America,More than one of the above,Yes,No,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,27.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+No Answer,No,yes,No,No,No,Possibly,No,47.0,Other,Latvia,No Answer,No,Yes,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,Yes,Yes,Yes,Yes,33.0,Female,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,Yes,28.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,No,No,Yes,Yes,36.0,Male,United States of America,White,Yes,No,3.0,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+6-25,Yes,No,Possibly,No,No,Don't Know,Yes,25.0,Female,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,No,No,Don't Know,No,No,Don't Know,Yes,30.0,Female,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,No,No,No,No,Yes,39.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,Possibly,No,No,Don't Know,I don't know,31.0,Other,United States of America,White,Yes,No,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,No,No,Don't Know,Yes,No,No,Yes,48.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,No,No,No,I don't know,43.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Don't Know,No,No,Don't Know,I don't know,35.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,Possibly,No,No,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+26-100,Yes,No,No,No,No,No,I don't know,28.0,Male,India,No Answer,Yes,No,5.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,No,No,27.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+1-5,Yes,No,No,No,No,Yes,No,28.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Possibly,Yes,No,Possibly,I don't know,43.0,Female,United States of America,White,Yes,No,3.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,Yes,Yes,Yes,Yes,Yes,31.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+More than 1000,Yes,No,No,No,No,No,No,37.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Yes,Yes,36.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,42.0,Female,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,Yes,I don't know,29.0,Female,United States of America,I prefer not to answer,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Yes,Yes,Yes,Yes,Yes,41.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,No,No,No,No,Yes,No,37.0,Male,United States of America,White,No,Yes,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,Yes,No,No,No,53.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+No Answer,No,yes,Possibly,No,No,Don't Know,Yes,43.0,Male,United States of America,White,No,Yes,2.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+500-1000,Yes,No,Don't Know,No,No,No,I don't know,44.0,Male,United States of America,White,Yes,No,1.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,No,No,No,Yes,No,No,No,37.0,Female,United States of America,I prefer not to answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,No,Yes,Yes,I don't know,57.0,Female,United States of America,White,Yes,No,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+More than 1000,Yes,No,No,Yes,No,No,No,47.0,Male,United States of America,White,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+100-500,Yes,No,No,Yes,No,No,No,34.0,Male,United States of America,White,Yes,No,2.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Yes,Yes,Yes,Possibly,Yes,29.0,Male,United States of America,White,Yes,No,4.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+500-1000,No,No,Possibly,No,No,Yes,No,38.0,Male,United States of America,White,Yes,No,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,No,No,No,Yes,No,41.0,Male,United Kingdom,No Answer,Yes,No,3.0,No,No,No,No,No,No,No,No,No,No,No,No,No
+6-25,Yes,No,Yes,No,Yes,Yes,No,40.0,Male,United States of America,White,Yes,No,3.0,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,No Answer,Other,No Answer,No Answer,No,No,No Answer,No,No,No,No,No,No,No,No,No,No,No,No,No
+26-100,Yes,No,Possibly,Yes,No,Possibly,No,30.0,Male,United States of America,White,Yes,No,2.0,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+No Answer,No,yes,Yes,No,Yes,Yes,Yes,No Answer,Other,No Answer,No Answer,No,Yes,No Answer,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No
